@@ -35,11 +35,11 @@ preferences:
     enabled: true
 
 # Site Configuration
-title: "Your Site Title"
-heading: "Your Name"
+title: "fatalen garden"
+heading: "fatalen"
 description: "A brief description of your site"
-url: "https://yoursite.com"
-baseurl: ""
+url: "https://fatalen.github.io/"
+baseurl: "/garden"
 
 # Asset Configuration
 apple_touch_icon: "/assets/img/profile.png"
