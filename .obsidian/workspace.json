@@ -11,12 +11,14 @@
             "id": "67db6946ee5c97ba",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "assets/img/3-how-to.png"
+                "file": "pages/about.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "3-how-to"
+              "icon": "lucide-file",
+              "title": "about"
             }
           }
         ]
@@ -92,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/img/3-how-to.png",
+                "file": "_notes/Public/Obsidian Setup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 3-how-to"
+              "title": "Backlinks for Obsidian Setup"
             }
           },
           {
@@ -111,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "assets/img/3-how-to.png",
+                "file": "_notes/Public/Obsidian Setup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 3-how-to"
+              "title": "Outgoing links from Obsidian Setup"
             }
           },
           {
@@ -154,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "assets/img/3-how-to.png",
+                "file": "_notes/Public/Obsidian Setup.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 3-how-to"
+              "title": "Outline of Obsidian Setup"
             }
           }
         ]
@@ -181,11 +183,26 @@
       "bases:Create new base": false
     }
   },
-  "active": "9fd98f6d5e6786f1",
+  "active": "67db6946ee5c97ba",
   "lastOpenFiles": [
+    "pages/404.md",
+    "pages/about.md",
+    "pages/blog.md",
+    "pages/Credits.md",
+    "pages/notes.md",
+    "pages/index.md",
+    "_posts/2024-01-15-welcome-to-jekyll-garden.md",
+    "_notes/Public/wishlist.md",
+    "_notes/Public/Customization.md",
+    "_notes/Public/Deployment.md",
+    "_notes/Public/Getting Started.md",
+    "_notes/Public/Markdown Guide.md",
+    "_notes/Public/Obsidian Setup.md",
+    "_notes/Public/Theme Features.md",
+    "_notes/Public/Wiki Links.md",
+    "assets/img/3-how-to.png",
     "assets/img/2-how-to.png",
     "assets/img/1-how-to.png",
-    "README.md",
-    "_notes/Public/wishlist.md"
+    "README.md"
   ]
 }
