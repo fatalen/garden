@@ -11,14 +11,12 @@
             "id": "67db6946ee5c97ba",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "_notes/Public/wishlist.md",
-                "mode": "source",
-                "source": false
+                "file": "assets/img/3-how-to.png"
               },
-              "icon": "lucide-file",
-              "title": "wishlist"
+              "icon": "lucide-image",
+              "title": "3-how-to"
             }
           }
         ]
@@ -94,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Public/wishlist.md",
+                "file": "assets/img/3-how-to.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +102,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for wishlist"
+              "title": "Backlinks for 3-how-to"
             }
           },
           {
@@ -113,12 +111,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_notes/Public/wishlist.md",
+                "file": "assets/img/3-how-to.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from wishlist"
+              "title": "Outgoing links from 3-how-to"
             }
           },
           {
@@ -156,13 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_notes/Public/wishlist.md",
+                "file": "assets/img/3-how-to.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of wishlist"
+              "title": "Outline of 3-how-to"
             }
           }
         ]
@@ -183,8 +181,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "67db6946ee5c97ba",
+  "active": "9fd98f6d5e6786f1",
   "lastOpenFiles": [
+    "assets/img/2-how-to.png",
+    "assets/img/1-how-to.png",
+    "README.md",
     "_notes/Public/wishlist.md"
   ]
 }
