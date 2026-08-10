@@ -41,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -185,6 +187,8 @@
   },
   "active": "67db6946ee5c97ba",
   "lastOpenFiles": [
+    "_notes/Public/Wiki Links.md",
+    "_notes/Public/wishlist.md",
     "pages/about.md",
     "pages/404.md",
     "pages/blog.md",
@@ -192,14 +196,12 @@
     "pages/notes.md",
     "pages/index.md",
     "_posts/2024-01-15-welcome-to-jekyll-garden.md",
-    "_notes/Public/wishlist.md",
     "_notes/Public/Customization.md",
     "_notes/Public/Deployment.md",
     "_notes/Public/Getting Started.md",
     "_notes/Public/Markdown Guide.md",
     "_notes/Public/Obsidian Setup.md",
     "_notes/Public/Theme Features.md",
-    "_notes/Public/Wiki Links.md",
     "assets/img/3-how-to.png",
     "assets/img/2-how-to.png",
     "assets/img/1-how-to.png",
