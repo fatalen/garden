@@ -12,7 +12,7 @@ date: 2026-06-18
 - курс по изучению испанского языка (с преподавателем-носителем)
 
 - [зубная щетка PHILIPS HX7108/01 SONICARE 5300](https://www.tehnomax.me/mali-kucni-aparati/elektricne-cetkice-za-zube/elektricna-cetkica-za-zube-philips-hx7108-01-sonicare.html) + насадки
-- [ручка lamy studio (medium nib)](https://www.lamy.com/en-us/p/lamy-studio-fountain-pen/50723086369102)
+- [ручка lamy studio (medium nib)](https://www.lamy.com/en-us/p/lamy-studio-fountain-pen/50723086369102) + [конвертер для чернил](https://www.lamy.com/en-us/p/lamy-z-27-converter/50726718439758)
 - [футболка Rammstein](https://www.pozers.ru/tproduct/1673819131-291572115841-the-sopranos-x-rammstein)
 - [смешная кружка стич](https://www.ebay.com/itm/167014232404?_trksid=p2332490.c101196.m2219)
 - [модульный ноутбук](https://frame.work/)
