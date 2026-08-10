@@ -11,7 +11,7 @@ date: 2026-06-18
 - обучение вождению яхты (шкиперские права)
 - курс по изучению испанского языка ( с преподавателем-носителем)
 
-- [зубная щетка PHILIPS HX6830/44 SONICARE](https://www.tehnomax.me/mali-kucni-aparati/elektricne-cetkice-za-zube/elektricna-cetkica-za-zube-philips-hx6830-44-sonicare.html) + насадки
+- [зубная щетка PHILIPS HX7108/01 SONICARE 5300](https://www.tehnomax.me/mali-kucni-aparati/elektricne-cetkice-za-zube/elektricna-cetkica-za-zube-philips-hx7108-01-sonicare.html) + насадки
 - [lamy studio medium nib](https://www.lamy.com/en-us/p/lamy-studio-fountain-pen/50723086369102)
 - [футболка # Rammstein](https://www.pozers.ru/tproduct/1673819131-291572115841-the-sopranos-x-rammstein)
 - [смешная кружка стич](https://www.ebay.com/itm/167014232404?_trksid=p2332490.c101196.m2219)
